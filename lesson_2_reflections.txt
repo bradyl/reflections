@@ -6,3 +6,8 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 	Staging area allows git to track before final commit.
 	Allows more clear preparedness..
+	
+How can you use the staging area to make sure you have one commit per logical 
+change?
+	use diff and diff --staged to see which changes will be committed.
+	
