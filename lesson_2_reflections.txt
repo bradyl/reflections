@@ -15,3 +15,6 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 	When experimenting or other non-linear code. Branches enable working on 
 	bits of problem while ensuring main code sallies forth.
+	
+How do the diagrams help you visualize the branch structure?
+	helps to create a time line my eye and brain can more easily digest.
