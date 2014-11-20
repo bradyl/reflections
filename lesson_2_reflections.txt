@@ -18,3 +18,9 @@ organized? How would branches help?
 	
 How do the diagrams help you visualize the branch structure?
 	helps to create a time line my eye and brain can more easily digest.
+	
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+	Creates new master branch. Any commits after master are not included in 
+	merge.
+	
