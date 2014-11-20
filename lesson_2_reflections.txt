@@ -24,3 +24,7 @@ the diagram the way we do?
 	Creates new master branch. Any commits after master are not included in 
 	merge.
 	
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+	auto can be faster and more accurate. manual is simpler.
+	
